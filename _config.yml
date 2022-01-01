@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: okay@samesies.io
-baseurl: ""
+baseurl: "barber-jekyll"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
@@ -8,7 +8,7 @@ name: Thomas Vaeth
 title: The Barber Theme
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://huunhan2712.github.io/barber-jekyll
+url: http://huunhan2712.github.io
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
