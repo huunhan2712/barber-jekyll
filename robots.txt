@@ -1,1 +1,1 @@
-Sitemap: http://huunhan2712.github.io/barber-jekyll/sitemap.xml
+Sitemap: http://huunhan2712.github.io/barber-jekyll/barber-jekyll/sitemap.xml
