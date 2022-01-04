@@ -1,11 +1,11 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: huunhan2712@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Hoang Huu Nhan
+title: Hoang Huu Nhan
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 url: http://huunhan2712.github.io/barber-jekyll
@@ -15,7 +15,7 @@ social:
   - name: twitter
     url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/huunhanhoang/
   - name: linkedin
     url: https://www.linkedin.com/in/thomasvaeth/
   - name: github
@@ -36,9 +36,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Hoang Huu Nhan
+    bio: Hoang Huu Nhan was born in HCMc., Vietnam. He is studying Architecture in Vietnamese-German University (VGU), He's into the Architecture but with a movie/fiction approach to design.
+    url: https://www.facebook.com/huunhan.hoang.7/
 
 # Pagination settings
 pagination:
