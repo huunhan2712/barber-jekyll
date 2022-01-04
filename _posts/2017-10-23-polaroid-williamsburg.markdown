@@ -3,7 +3,7 @@ layout: post
 title: "Con ga` Hoa`ng"
 date: 2017-10-23
 description: 
-image: /assets/images/1/First.png
+smallimage: /assets/images/1/First.png
 author: Hoang Huu Nhan
 tags: 
   - Dummy Text
