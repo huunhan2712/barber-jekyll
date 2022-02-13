@@ -3,7 +3,7 @@ layout: post
 title: "Achitecture Design 1"
 date: 2017-10-23
 description: 
-image: /assets/images/1/First.png
+image: /assets/images/Achitecture Design 1/First.png
 author: Hoang Huu Nhan
 tags: 
   - Dummy Text
@@ -25,7 +25,22 @@ Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos racle
 ### Module's task
 The task is to design something using 3mx3mx9m boxes (stackable) with good views. cutting the original boxes should be the main technique being used without destroying the original shape.
 
-![Placeholder](/assets/images/1/2.png)
+![Placeholder](/assets/images/Achitecture Design 1/2.png)
+
+![Placeholder](/assets/images/Achitecture Design 1/3.1.png)
+
+![Placeholder](/assets/images/Achitecture Design 1/5.png)
+
+![Placeholder](/assets/images/Achitecture Design 1/7.png)
+
+![Placeholder](/assets/images/Achitecture Design 1/8.png)
+
+![Placeholder](/assets/images/Achitecture Design 1/10.png)
+
+![Placeholder](/assets/images/Achitecture Design 1/11.png)
+
+![Placeholder](/assets/images/Achitecture Design 1/12.png)
+
 
 Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
 
