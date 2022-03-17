@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A small-side project"
+title: "A small side-project"
 date: 2022-3-18
 description: 
 image: /assets/images/notUniPJ/1/Image1.png
