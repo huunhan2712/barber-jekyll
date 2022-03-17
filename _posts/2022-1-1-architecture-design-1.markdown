@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Achitecture Design 1"
-date: 2017-10-23
+date: 2021-12-23
 description: 
 image: /assets/images/Achitecture Design 1/First.png
 author: Hoang Huu Nhan

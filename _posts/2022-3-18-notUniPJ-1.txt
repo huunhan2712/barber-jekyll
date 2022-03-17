@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Achitecture Design 1"
+date: 2022-3-18
+description: 
+image: /assets/images/notUniPJ/1/Image1.png
+author: Hoang Huu Nhan
+tags:
+  - Garden
+  - Phan Thiet
+---
+![Placeholder](/assets/images/notUniPJ/1/Image8.png)
+![Placeholder](/assets/images/notUniPJ/1/Image9.png)
