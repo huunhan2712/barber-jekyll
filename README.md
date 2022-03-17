@@ -45,7 +45,7 @@ social:
   - name: twitter
     url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/nahn.hu/
   - name: linkedin
     url: https://www.linkedin.com/in/thomasvaeth/
   - name: github
