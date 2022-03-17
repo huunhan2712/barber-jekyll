@@ -29,6 +29,8 @@ The task is to design something using 3mx3mx9m boxes (stackable) with good views
 
 ![Placeholder](/assets/images/Achitecture Design 1/3.1.png)
 
+With inspiration taken from Gordon Marta Clark, to make those round cuts on the right, 
+
 ![Placeholder](/assets/images/Achitecture Design 1/5.png)
 
 ![Placeholder](/assets/images/Achitecture Design 1/7.png)
