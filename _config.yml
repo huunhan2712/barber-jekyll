@@ -12,16 +12,8 @@ url: https://nathanhunt.netlify.app
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/huunhanhoang/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
-  - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://www.instagram.com/nahn.hu/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
