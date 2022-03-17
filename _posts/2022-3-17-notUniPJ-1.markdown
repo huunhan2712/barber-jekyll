@@ -6,8 +6,7 @@ description:
 image: /assets/images/notUniPJ/1/Image1.png
 author: Hoang Huu Nhan
 tags: 
-  - Garden
-  - Phan Thiet
+  - Side project
   - asd
 ---
 Hey there, these are some words, LOL.
