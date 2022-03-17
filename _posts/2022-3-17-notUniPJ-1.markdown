@@ -7,7 +7,7 @@ image: /assets/images/notUniPJ/1/Image1.png
 author: Hoang Huu Nhan
 tags: 
   - Side project
-  - asd
+  - ARC
 ---
 Hey there, these are some words, LOL.
 
