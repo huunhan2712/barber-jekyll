@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Architecture Festival - XIII"
+date: 2022-3-18
+description: 
+image: /assets/images/notUniPJ/1/Team.jpg
+author: Hoang Huu Nhan
+tags: 
+  - FES13
+  - ARC
+---
+Architecture festival is an events occurs every 2 years in Vietnam. This year,
+
+![Placeholder](/assets/images/FES13/Product.jpg)
+
+![Placeholder](/assets/images/FES13/Image1.jpg)
