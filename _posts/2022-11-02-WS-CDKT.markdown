@@ -1,0 +1,19 @@
+---
+layout: post
+title: "CDKT-Workshop Sai Gon - Hem va Nguoi"
+date: 2022-3-18
+description: 
+image: /assets/images/Workshops/CDKT/WS03TuYDenHinh/BG.jpg
+author: Hoang Huu Nhan
+tags: 
+  - FES13
+  - ARC
+---
+This is a fast design workshop, held by TOTO (Japanese multinational toilet manufacturer) and "Cong Dong Kien Tre" (a community for young architect/ architecture students). The workshop happens in the afternoon and all done by hand.
+![Placeholder](/assets/images/Workshops/CDKT/WS03TuYDenHinh/think.jpg)
+
+![Placeholder](/assets/images/Workshops/CDKT/WS03TuYDenHinh/work.jpg)
+
+![Placeholder](/assets/images/Workshops/CDKT/WS03TuYDenHinh/work01.jpg)
+
+![Placeholder](/assets/images/Workshops/CDKT/WS03TuYDenHinh/Award.jpg)
