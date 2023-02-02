@@ -9,7 +9,7 @@ tags:
   - FES13
   - ARC
 ---
-Architecture festival is an events occurs every 2 years in Vietnam. This year,
+Architecture festival is an events occurs every 2 years in Vietnam. This year, it took place in Phu Yen with the theme "Ayaru's Legacy". I had a chanced to join and represented Vietnamese-German university (VGU) and my team won second place in "Fast design A"
 
 ![Placeholder](/assets/images/FES13/Product.jpg)
 
