@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Pts"
+title: "Arcviz"
 date: 2023-2-2
 description: 
 image: /assets/images/notUniPJ/Outsource/NinhTan/MasterPlan.png
 author: Hoang Huu Nhan
 tags: 
   - Side project
+  - ARC
 ---
 This is the visualization I did for a project that I worked as an outsource.
 

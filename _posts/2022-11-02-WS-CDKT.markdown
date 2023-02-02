@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "CDKT-Workshop Sai Gon - Hem va Nguoi"
-date: 2022-3-18
+title: "CDKT-Workshop Tu 'Y' den 'Hinh'"
+date: 2022-2-11
 description: 
 image: /assets/images/Workshops/CDKT/WS03TuYDenHinh/BG.jpg
 author: Hoang Huu Nhan
