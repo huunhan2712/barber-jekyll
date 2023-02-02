@@ -6,7 +6,7 @@ description:
 image: /assets/images/notUniPJ/Outsource/NinhTan/MasterPlan.png
 author: Hoang Huu Nhan
 tags: 
-  - ARCViz
+  - Side project
 ---
 This is the visualization I did for a project that I worked as an outsource.
 
