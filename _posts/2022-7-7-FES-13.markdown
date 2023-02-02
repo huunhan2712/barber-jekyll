@@ -3,7 +3,7 @@ layout: post
 title: "Architecture Festival - XIII"
 date: 2022-3-18
 description: 
-image: /assets/images/notUniPJ/1/Team.jpg
+image: /assets/images/FES13/Team.jpg
 author: Hoang Huu Nhan
 tags: 
   - FES13
